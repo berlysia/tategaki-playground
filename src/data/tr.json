@@ -1,0 +1,184 @@
+[
+  {
+    "codepoint": "2329",
+    "vo": "Tr",
+    "description": "LEFT-POINTING ANGLE BRACKET"
+  },
+  {
+    "codepoint": "232A",
+    "vo": "Tr",
+    "description": "RIGHT-POINTING ANGLE BRACKET"
+  },
+  { "codepoint": "3008", "vo": "Tr", "description": "LEFT ANGLE BRACKET" },
+  { "codepoint": "3009", "vo": "Tr", "description": "RIGHT ANGLE BRACKET" },
+  {
+    "codepoint": "300A",
+    "vo": "Tr",
+    "description": "LEFT DOUBLE ANGLE BRACKET"
+  },
+  {
+    "codepoint": "300B",
+    "vo": "Tr",
+    "description": "RIGHT DOUBLE ANGLE BRACKET"
+  },
+  { "codepoint": "300C", "vo": "Tr", "description": "LEFT CORNER BRACKET" },
+  { "codepoint": "300D", "vo": "Tr", "description": "RIGHT CORNER BRACKET" },
+  {
+    "codepoint": "300E",
+    "vo": "Tr",
+    "description": "LEFT WHITE CORNER BRACKET"
+  },
+  {
+    "codepoint": "300F",
+    "vo": "Tr",
+    "description": "RIGHT WHITE CORNER BRACKET"
+  },
+  {
+    "codepoint": "3010",
+    "vo": "Tr",
+    "description": "LEFT BLACK LENTICULAR BRACKET"
+  },
+  {
+    "codepoint": "3011",
+    "vo": "Tr",
+    "description": "RIGHT BLACK LENTICULAR BRACKET"
+  },
+  {
+    "codepoint": "3014",
+    "vo": "Tr",
+    "description": "LEFT TORTOISE SHELL BRACKET"
+  },
+  {
+    "codepoint": "3015",
+    "vo": "Tr",
+    "description": "RIGHT TORTOISE SHELL BRACKET"
+  },
+  {
+    "codepoint": "3016",
+    "vo": "Tr",
+    "description": "LEFT WHITE LENTICULAR BRACKET"
+  },
+  {
+    "codepoint": "3017",
+    "vo": "Tr",
+    "description": "RIGHT WHITE LENTICULAR BRACKET"
+  },
+  {
+    "codepoint": "3018",
+    "vo": "Tr",
+    "description": "LEFT WHITE TORTOISE SHELL BRACKET"
+  },
+  {
+    "codepoint": "3019",
+    "vo": "Tr",
+    "description": "RIGHT WHITE TORTOISE SHELL BRACKET"
+  },
+  {
+    "codepoint": "301A",
+    "vo": "Tr",
+    "description": "LEFT WHITE SQUARE BRACKET"
+  },
+  {
+    "codepoint": "301B",
+    "vo": "Tr",
+    "description": "RIGHT WHITE SQUARE BRACKET"
+  },
+  { "codepoint": "301C", "vo": "Tr", "description": "WAVE DASH" },
+  {
+    "codepoint": "301D",
+    "vo": "Tr",
+    "description": "REVERSED DOUBLE PRIME QUOTATION MARK"
+  },
+  {
+    "codepoint": "301E..301F",
+    "vo": "Tr",
+    "description": "[2] DOUBLE PRIME QUOTATION MARK..LOW DOUBLE PRIME QUOTATION MARK"
+  },
+  { "codepoint": "3030", "vo": "Tr", "description": "WAVY DASH" },
+  {
+    "codepoint": "30A0",
+    "vo": "Tr",
+    "description": "KATAKANA-HIRAGANA DOUBLE HYPHEN"
+  },
+  {
+    "codepoint": "30FC",
+    "vo": "Tr",
+    "description": "KATAKANA-HIRAGANA PROLONGED SOUND MARK"
+  },
+  { "codepoint": "FE59", "vo": "Tr", "description": "SMALL LEFT PARENTHESIS" },
+  { "codepoint": "FE5A", "vo": "Tr", "description": "SMALL RIGHT PARENTHESIS" },
+  {
+    "codepoint": "FE5B",
+    "vo": "Tr",
+    "description": "SMALL LEFT CURLY BRACKET"
+  },
+  {
+    "codepoint": "FE5C",
+    "vo": "Tr",
+    "description": "SMALL RIGHT CURLY BRACKET"
+  },
+  {
+    "codepoint": "FE5D",
+    "vo": "Tr",
+    "description": "SMALL LEFT TORTOISE SHELL BRACKET"
+  },
+  {
+    "codepoint": "FE5E",
+    "vo": "Tr",
+    "description": "SMALL RIGHT TORTOISE SHELL BRACKET"
+  },
+  {
+    "codepoint": "FF08",
+    "vo": "Tr",
+    "description": "FULLWIDTH LEFT PARENTHESIS"
+  },
+  {
+    "codepoint": "FF09",
+    "vo": "Tr",
+    "description": "FULLWIDTH RIGHT PARENTHESIS"
+  },
+  {
+    "codepoint": "FF1A",
+    "vo": "Tr",
+    "description": "FULLWIDTH COLON"
+  },
+  {
+    "codepoint": "FF1B",
+    "vo": "Tr",
+    "description": "FULLWIDTH SEMICOLON"
+  },
+  {
+    "codepoint": "FF3B",
+    "vo": "Tr",
+    "description": "FULLWIDTH LEFT SQUARE BRACKET"
+  },
+  {
+    "codepoint": "FF3D",
+    "vo": "Tr",
+    "description": "FULLWIDTH RIGHT SQUARE BRACKET"
+  },
+  { "codepoint": "FF3F", "vo": "Tr", "description": "FULLWIDTH LOW LINE" },
+  {
+    "codepoint": "FF5B",
+    "vo": "Tr",
+    "description": "FULLWIDTH LEFT CURLY BRACKET"
+  },
+  { "codepoint": "FF5C", "vo": "Tr", "description": "FULLWIDTH VERTICAL LINE" },
+  {
+    "codepoint": "FF5D",
+    "vo": "Tr",
+    "description": "FULLWIDTH RIGHT CURLY BRACKET"
+  },
+  { "codepoint": "FF5E", "vo": "Tr", "description": "FULLWIDTH TILDE" },
+  {
+    "codepoint": "FF5F",
+    "vo": "Tr",
+    "description": "FULLWIDTH LEFT WHITE PARENTHESIS"
+  },
+  {
+    "codepoint": "FF60",
+    "vo": "Tr",
+    "description": "FULLWIDTH RIGHT WHITE PARENTHESIS"
+  },
+  { "codepoint": "FFE3", "vo": "Tr", "description": "FULLWIDTH MACRON" }
+]

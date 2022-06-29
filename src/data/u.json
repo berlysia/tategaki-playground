@@ -1,0 +1,1956 @@
+[
+  { "codepoint": "00A7", "vo": "U", "description": "SECTION SIGN" },
+  { "codepoint": "00A9", "vo": "U", "description": "COPYRIGHT SIGN" },
+  { "codepoint": "00AE", "vo": "U", "description": "REGISTERED SIGN" },
+  { "codepoint": "00B1", "vo": "U", "description": "PLUS-MINUS SIGN" },
+  {
+    "codepoint": "00BC..00BE",
+    "vo": "U",
+    "description": "[3] VULGAR FRACTION ONE QUARTER..VULGAR FRACTION THREE QUARTERS"
+  },
+  { "codepoint": "00D7", "vo": "U", "description": "MULTIPLICATION SIGN" },
+  { "codepoint": "00F7", "vo": "U", "description": "DIVISION SIGN" },
+  {
+    "codepoint": "02EA..02EB",
+    "vo": "U",
+    "description": "[2] MODIFIER LETTER YIN DEPARTING TONE MARK..MODIFIER LETTER YANG DEPARTING TONE MARK"
+  },
+  {
+    "codepoint": "1100..11FF",
+    "vo": "U",
+    "description": "[256] HANGUL CHOSEONG KIYEOK..HANGUL JONGSEONG SSANGNIEUN"
+  },
+  {
+    "codepoint": "1401..166C",
+    "vo": "U",
+    "description": "[620] CANADIAN SYLLABICS E..CANADIAN SYLLABICS CARRIER TTSA"
+  },
+  {
+    "codepoint": "166D",
+    "vo": "U",
+    "description": "CANADIAN SYLLABICS CHI SIGN"
+  },
+  {
+    "codepoint": "166E",
+    "vo": "U",
+    "description": "CANADIAN SYLLABICS FULL STOP"
+  },
+  {
+    "codepoint": "166F..167F",
+    "vo": "U",
+    "description": "[17] CANADIAN SYLLABICS QAI..CANADIAN SYLLABICS BLACKFOOT W"
+  },
+  {
+    "codepoint": "18B0..18F5",
+    "vo": "U",
+    "description": "[70] CANADIAN SYLLABICS OY..CANADIAN SYLLABICS CARRIER DENTAL S"
+  },
+  {
+    "codepoint": "18F6..18FF",
+    "vo": "U",
+    "description": "[10] <reserved-18F6>..<reserved-18FF>"
+  },
+  { "codepoint": "2016", "vo": "U", "description": "DOUBLE VERTICAL LINE" },
+  {
+    "codepoint": "2020..2021",
+    "vo": "U",
+    "description": "[2] DAGGER..DOUBLE DAGGER"
+  },
+  {
+    "codepoint": "2030..2031",
+    "vo": "U",
+    "description": "[2] PER MILLE SIGN..PER TEN THOUSAND SIGN"
+  },
+  {
+    "codepoint": "203B..203C",
+    "vo": "U",
+    "description": "[2] REFERENCE MARK..DOUBLE EXCLAMATION MARK"
+  },
+  { "codepoint": "2042", "vo": "U", "description": "ASTERISM" },
+  {
+    "codepoint": "2047..2049",
+    "vo": "U",
+    "description": "[3] DOUBLE QUESTION MARK..EXCLAMATION QUESTION MARK"
+  },
+  {
+    "codepoint": "2051",
+    "vo": "U",
+    "description": "TWO ASTERISKS ALIGNED VERTICALLY"
+  },
+  { "codepoint": "2065", "vo": "U", "description": "<reserved-2065>" },
+  {
+    "codepoint": "20DD..20E0",
+    "vo": "U",
+    "description": "[4] COMBINING ENCLOSING CIRCLE..COMBINING ENCLOSING CIRCLE BACKSLASH"
+  },
+  {
+    "codepoint": "20E2..20E4",
+    "vo": "U",
+    "description": "[3] COMBINING ENCLOSING SCREEN..COMBINING ENCLOSING UPWARD POINTING TRIANGLE"
+  },
+  {
+    "codepoint": "2100..2101",
+    "vo": "U",
+    "description": "[2] ACCOUNT OF..ADDRESSED TO THE SUBJECT"
+  },
+  {
+    "codepoint": "2103..2106",
+    "vo": "U",
+    "description": "[4] DEGREE CELSIUS..CADA UNA"
+  },
+  { "codepoint": "2107", "vo": "U", "description": "EULER CONSTANT" },
+  {
+    "codepoint": "2108..2109",
+    "vo": "U",
+    "description": "[2] SCRUPLE..DEGREE FAHRENHEIT"
+  },
+  {
+    "codepoint": "210F",
+    "vo": "U",
+    "description": "PLANCK CONSTANT OVER TWO PI"
+  },
+  { "codepoint": "2113", "vo": "U", "description": "SCRIPT SMALL L" },
+  { "codepoint": "2114", "vo": "U", "description": "L B BAR SYMBOL" },
+  {
+    "codepoint": "2116..2117",
+    "vo": "U",
+    "description": "[2] NUMERO SIGN..SOUND RECORDING COPYRIGHT"
+  },
+  {
+    "codepoint": "211E..2123",
+    "vo": "U",
+    "description": "[6] PRESCRIPTION TAKE..VERSICLE"
+  },
+  { "codepoint": "2125", "vo": "U", "description": "OUNCE SIGN" },
+  { "codepoint": "2127", "vo": "U", "description": "INVERTED OHM SIGN" },
+  {
+    "codepoint": "2129",
+    "vo": "U",
+    "description": "TURNED GREEK SMALL LETTER IOTA"
+  },
+  { "codepoint": "212E", "vo": "U", "description": "ESTIMATED SYMBOL" },
+  {
+    "codepoint": "2135..2138",
+    "vo": "U",
+    "description": "[4] ALEF SYMBOL..DALET SYMBOL"
+  },
+  { "codepoint": "2139", "vo": "U", "description": "INFORMATION SOURCE" },
+  {
+    "codepoint": "213A..213B",
+    "vo": "U",
+    "description": "[2] ROTATED CAPITAL Q..FACSIMILE SIGN"
+  },
+  {
+    "codepoint": "213C..213F",
+    "vo": "U",
+    "description": "[4] DOUBLE-STRUCK SMALL PI..DOUBLE-STRUCK CAPITAL PI"
+  },
+  {
+    "codepoint": "2145..2149",
+    "vo": "U",
+    "description": "[5] DOUBLE-STRUCK ITALIC CAPITAL D..DOUBLE-STRUCK ITALIC SMALL J"
+  },
+  { "codepoint": "214A", "vo": "U", "description": "PROPERTY LINE" },
+  {
+    "codepoint": "214C..214D",
+    "vo": "U",
+    "description": "[2] PER SIGN..AKTIESELSKAB"
+  },
+  {
+    "codepoint": "214F",
+    "vo": "U",
+    "description": "SYMBOL FOR SAMARITAN SOURCE"
+  },
+  {
+    "codepoint": "2150..215F",
+    "vo": "U",
+    "description": "[16] VULGAR FRACTION ONE SEVENTH..FRACTION NUMERATOR ONE"
+  },
+  {
+    "codepoint": "2160..2182",
+    "vo": "U",
+    "description": "[35] ROMAN NUMERAL ONE..ROMAN NUMERAL TEN THOUSAND"
+  },
+  {
+    "codepoint": "2183..2184",
+    "vo": "U",
+    "description": "[2] ROMAN NUMERAL REVERSED ONE HUNDRED..LATIN SMALL LETTER REVERSED C"
+  },
+  {
+    "codepoint": "2185..2188",
+    "vo": "U",
+    "description": "[4] ROMAN NUMERAL SIX LATE FORM..ROMAN NUMERAL ONE HUNDRED THOUSAND"
+  },
+  {
+    "codepoint": "2189",
+    "vo": "U",
+    "description": "VULGAR FRACTION ZERO THIRDS"
+  },
+  {
+    "codepoint": "218C..218F",
+    "vo": "U",
+    "description": "[4] <reserved-218C>..<reserved-218F>"
+  },
+  { "codepoint": "221E", "vo": "U", "description": "INFINITY" },
+  {
+    "codepoint": "2234..2235",
+    "vo": "U",
+    "description": "[2] THEREFORE..BECAUSE"
+  },
+  {
+    "codepoint": "2300..2307",
+    "vo": "U",
+    "description": "[8] DIAMETER SIGN..WAVY LINE"
+  },
+  {
+    "codepoint": "230C..231F",
+    "vo": "U",
+    "description": "[20] BOTTOM RIGHT CROP..BOTTOM RIGHT CORNER"
+  },
+  {
+    "codepoint": "2324..2328",
+    "vo": "U",
+    "description": "[5] UP ARROWHEAD BETWEEN TWO HORIZONTAL BARS..KEYBOARD"
+  },
+  { "codepoint": "232B", "vo": "U", "description": "ERASE TO THE LEFT" },
+  {
+    "codepoint": "237D..239A",
+    "vo": "U",
+    "description": "[30] SHOULDERED OPEN BOX..CLEAR SCREEN SYMBOL"
+  },
+  {
+    "codepoint": "23BE..23CD",
+    "vo": "U",
+    "description": "[16] DENTISTRY SYMBOL LIGHT VERTICAL AND TOP RIGHT..SQUARE FOOT"
+  },
+  { "codepoint": "23CF", "vo": "U", "description": "EJECT SYMBOL" },
+  {
+    "codepoint": "23D1..23DB",
+    "vo": "U",
+    "description": "[11] METRICAL BREVE..FUSE"
+  },
+  {
+    "codepoint": "23E2..23FF",
+    "vo": "U",
+    "description": "[30] WHITE TRAPEZIUM..OBSERVER EYE SYMBOL"
+  },
+  {
+    "codepoint": "2400..2422",
+    "vo": "U",
+    "description": "[35] SYMBOL FOR NULL..BLANK SYMBOL"
+  },
+  {
+    "codepoint": "2424..2426",
+    "vo": "U",
+    "description": "[3] SYMBOL FOR NEWLINE..SYMBOL FOR SUBSTITUTE FORM TWO"
+  },
+  {
+    "codepoint": "2427..243F",
+    "vo": "U",
+    "description": "[25] <reserved-2427>..<reserved-243F>"
+  },
+  {
+    "codepoint": "2440..244A",
+    "vo": "U",
+    "description": "[11] OCR HOOK..OCR DOUBLE BACKSLASH"
+  },
+  {
+    "codepoint": "244B..245F",
+    "vo": "U",
+    "description": "[21] <reserved-244B>..<reserved-245F>"
+  },
+  {
+    "codepoint": "2460..249B",
+    "vo": "U",
+    "description": "[60] CIRCLED DIGIT ONE..NUMBER TWENTY FULL STOP"
+  },
+  {
+    "codepoint": "249C..24E9",
+    "vo": "U",
+    "description": "[78] PARENTHESIZED LATIN SMALL LETTER A..CIRCLED LATIN SMALL LETTER Z"
+  },
+  {
+    "codepoint": "24EA..24FF",
+    "vo": "U",
+    "description": "[22] CIRCLED DIGIT ZERO..NEGATIVE CIRCLED DIGIT ZERO"
+  },
+  {
+    "codepoint": "25A0..25B6",
+    "vo": "U",
+    "description": "[23] BLACK SQUARE..BLACK RIGHT-POINTING TRIANGLE"
+  },
+  {
+    "codepoint": "25B7",
+    "vo": "U",
+    "description": "WHITE RIGHT-POINTING TRIANGLE"
+  },
+  {
+    "codepoint": "25B8..25C0",
+    "vo": "U",
+    "description": "[9] BLACK RIGHT-POINTING SMALL TRIANGLE..BLACK LEFT-POINTING TRIANGLE"
+  },
+  {
+    "codepoint": "25C1",
+    "vo": "U",
+    "description": "WHITE LEFT-POINTING TRIANGLE"
+  },
+  {
+    "codepoint": "25C2..25F7",
+    "vo": "U",
+    "description": "[54] BLACK LEFT-POINTING SMALL TRIANGLE..WHITE CIRCLE WITH UPPER RIGHT QUADRANT"
+  },
+  {
+    "codepoint": "25F8..25FF",
+    "vo": "U",
+    "description": "[8] UPPER LEFT TRIANGLE..LOWER RIGHT TRIANGLE"
+  },
+  {
+    "codepoint": "2600..2619",
+    "vo": "U",
+    "description": "[26] BLACK SUN WITH RAYS..REVERSED ROTATED FLORAL HEART BULLET"
+  },
+  {
+    "codepoint": "2620..266E",
+    "vo": "U",
+    "description": "[79] SKULL AND CROSSBONES..MUSIC NATURAL SIGN"
+  },
+  { "codepoint": "266F", "vo": "U", "description": "MUSIC SHARP SIGN" },
+  {
+    "codepoint": "2670..26FF",
+    "vo": "U",
+    "description": "[144] WEST SYRIAC CROSS..WHITE FLAG WITH HORIZONTAL MIDDLE BLACK STRIPE"
+  },
+  {
+    "codepoint": "2700..2767",
+    "vo": "U",
+    "description": "[104] BLACK SAFETY SCISSORS..ROTATED FLORAL HEART BULLET"
+  },
+  {
+    "codepoint": "2701",
+    "vo": "U",
+    "description": "[104] BLACK SAFETY SCISSORS..ROTATED FLORAL HEART BULLET"
+  },
+  {
+    "codepoint": "2702",
+    "vo": "U",
+    "description": "[104] BLACK SAFETY SCISSORS..ROTATED FLORAL HEART BULLET"
+  },
+  {
+    "codepoint": "2703",
+    "vo": "U",
+    "description": "[104] BLACK SAFETY SCISSORS..ROTATED FLORAL HEART BULLET"
+  },
+  {
+    "codepoint": "2776..2793",
+    "vo": "U",
+    "description": "[30] DINGBAT NEGATIVE CIRCLED DIGIT ONE..DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN"
+  },
+  {
+    "codepoint": "2B12..2B2F",
+    "vo": "U",
+    "description": "[30] SQUARE WITH TOP HALF BLACK..WHITE VERTICAL ELLIPSE"
+  },
+  {
+    "codepoint": "2B50..2B59",
+    "vo": "U",
+    "description": "[10] WHITE MEDIUM STAR..HEAVY CIRCLED SALTIRE"
+  },
+  {
+    "codepoint": "2B97",
+    "vo": "U",
+    "description": "SYMBOL FOR TYPE A ELECTRONICS"
+  },
+  {
+    "codepoint": "2BB8..2BD1",
+    "vo": "U",
+    "description": "[26] UPWARDS WHITE ARROW FROM BAR WITH HORIZONTAL BAR..UNCERTAINTY SIGN"
+  },
+  {
+    "codepoint": "2BD3..2BEB",
+    "vo": "U",
+    "description": "[25] PLUTO FORM TWO..STAR WITH RIGHT HALF BLACK"
+  },
+  {
+    "codepoint": "2BF0..2BFF",
+    "vo": "U",
+    "description": "[16] ERIS FORM ONE..HELLSCHREIBER PAUSE SYMBOL"
+  },
+  {
+    "codepoint": "2E50..2E51",
+    "vo": "U",
+    "description": "[2] CROSS PATTY WITH RIGHT CROSSBAR..CROSS PATTY WITH LEFT CROSSBAR"
+  },
+  {
+    "codepoint": "2E80..2E99",
+    "vo": "U",
+    "description": "[26] CJK RADICAL REPEAT..CJK RADICAL RAP"
+  },
+  { "codepoint": "2E9A", "vo": "U", "description": "<reserved-2E9A>" },
+  {
+    "codepoint": "2E9B..2EF3",
+    "vo": "U",
+    "description": "[89] CJK RADICAL CHOKE..CJK RADICAL C-SIMPLIFIED TURTLE"
+  },
+  {
+    "codepoint": "2EF4..2EFF",
+    "vo": "U",
+    "description": "[12] <reserved-2EF4>..<reserved-2EFF>"
+  },
+  {
+    "codepoint": "2F00..2FD5",
+    "vo": "U",
+    "description": "[214] KANGXI RADICAL ONE..KANGXI RADICAL FLUTE"
+  },
+  {
+    "codepoint": "2FD6..2FDF",
+    "vo": "U",
+    "description": "[10] <reserved-2FD6>..<reserved-2FDF>"
+  },
+  {
+    "codepoint": "2FE0..2FEF",
+    "vo": "U",
+    "description": "[16] <reserved-2FE0>..<reserved-2FEF>"
+  },
+  {
+    "codepoint": "2FF0..2FFB",
+    "vo": "U",
+    "description": "[12] IDEOGRAPHIC DESCRIPTION CHARACTER LEFT TO RIGHT..IDEOGRAPHIC DESCRIPTION CHARACTER OVERLAID"
+  },
+  {
+    "codepoint": "2FFC..2FFF",
+    "vo": "U",
+    "description": "[4] <reserved-2FFC>..<reserved-2FFF>"
+  },
+  { "codepoint": "3000", "vo": "U", "description": "IDEOGRAPHIC SPACE" },
+  { "codepoint": "3003", "vo": "U", "description": "DITTO MARK" },
+  {
+    "codepoint": "3004",
+    "vo": "U",
+    "description": "JAPANESE INDUSTRIAL STANDARD SYMBOL"
+  },
+  {
+    "codepoint": "3005",
+    "vo": "U",
+    "description": "IDEOGRAPHIC ITERATION MARK"
+  },
+  { "codepoint": "3006", "vo": "U", "description": "IDEOGRAPHIC CLOSING MARK" },
+  { "codepoint": "3007", "vo": "U", "description": "IDEOGRAPHIC NUMBER ZERO" },
+  {
+    "codepoint": "3012",
+    "vo": "U",
+    "description": "POSTAL MARK"
+  },
+  {
+    "codepoint": "3013",
+    "vo": "U",
+    "description": "GETA MARK"
+  },
+  { "codepoint": "3020", "vo": "U", "description": "POSTAL MARK FACE" },
+  {
+    "codepoint": "3021..3029",
+    "vo": "U",
+    "description": "[9] HANGZHOU NUMERAL ONE..HANGZHOU NUMERAL NINE"
+  },
+  {
+    "codepoint": "302A..302D",
+    "vo": "U",
+    "description": "[4] IDEOGRAPHIC LEVEL TONE MARK..IDEOGRAPHIC ENTERING TONE MARK"
+  },
+  {
+    "codepoint": "302E..302F",
+    "vo": "U",
+    "description": "[2] HANGUL SINGLE DOT TONE MARK..HANGUL DOUBLE DOT TONE MARK"
+  },
+  {
+    "codepoint": "3031..3035",
+    "vo": "U",
+    "description": "[5] VERTICAL KANA REPEAT MARK..VERTICAL KANA REPEAT MARK LOWER HALF"
+  },
+  {
+    "codepoint": "3036..3037",
+    "vo": "U",
+    "description": "[2] CIRCLED POSTAL MARK..IDEOGRAPHIC TELEGRAPH LINE FEED SEPARATOR SYMBOL"
+  },
+  {
+    "codepoint": "3038..303A",
+    "vo": "U",
+    "description": "[3] HANGZHOU NUMERAL TEN..HANGZHOU NUMERAL THIRTY"
+  },
+  {
+    "codepoint": "303B",
+    "vo": "U",
+    "description": "VERTICAL IDEOGRAPHIC ITERATION MARK"
+  },
+  { "codepoint": "303C", "vo": "U", "description": "MASU MARK" },
+  { "codepoint": "303D", "vo": "U", "description": "PART ALTERNATION MARK" },
+  {
+    "codepoint": "303E..303F",
+    "vo": "U",
+    "description": "[2] IDEOGRAPHIC VARIATION INDICATOR..IDEOGRAPHIC HALF FILL SPACE"
+  },
+  { "codepoint": "3040", "vo": "U", "description": "<reserved-3040>" },
+  { "codepoint": "3042", "vo": "U", "description": "HIRAGANA LETTER A" },
+  { "codepoint": "3044", "vo": "U", "description": "HIRAGANA LETTER I" },
+  { "codepoint": "3046", "vo": "U", "description": "HIRAGANA LETTER U" },
+  { "codepoint": "3048", "vo": "U", "description": "HIRAGANA LETTER E" },
+  {
+    "codepoint": "304A..3062",
+    "vo": "U",
+    "description": "[25] HIRAGANA LETTER O..HIRAGANA LETTER DI"
+  },
+  {
+    "codepoint": "3064..3082",
+    "vo": "U",
+    "description": "[31] HIRAGANA LETTER TU..HIRAGANA LETTER MO"
+  },
+  { "codepoint": "3084", "vo": "U", "description": "HIRAGANA LETTER YA" },
+  { "codepoint": "3086", "vo": "U", "description": "HIRAGANA LETTER YU" },
+  {
+    "codepoint": "3088..308D",
+    "vo": "U",
+    "description": "[6] HIRAGANA LETTER YO..HIRAGANA LETTER RO"
+  },
+  {
+    "codepoint": "308F..3094",
+    "vo": "U",
+    "description": "[6] HIRAGANA LETTER WA..HIRAGANA LETTER VU"
+  },
+  {
+    "codepoint": "3097..3098",
+    "vo": "U",
+    "description": "[2] <reserved-3097>..<reserved-3098>"
+  },
+  {
+    "codepoint": "3099..309A",
+    "vo": "U",
+    "description": "[2] COMBINING KATAKANA-HIRAGANA VOICED SOUND MARK..COMBINING KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK"
+  },
+  {
+    "codepoint": "309D..309E",
+    "vo": "U",
+    "description": "[2] HIRAGANA ITERATION MARK..HIRAGANA VOICED ITERATION MARK"
+  },
+  { "codepoint": "309F", "vo": "U", "description": "HIRAGANA DIGRAPH YORI" },
+  { "codepoint": "30A2", "vo": "U", "description": "KATAKANA LETTER A" },
+  { "codepoint": "30A4", "vo": "U", "description": "KATAKANA LETTER I" },
+  { "codepoint": "30A6", "vo": "U", "description": "KATAKANA LETTER U" },
+  { "codepoint": "30A8", "vo": "U", "description": "KATAKANA LETTER E" },
+  {
+    "codepoint": "30AA..30C2",
+    "vo": "U",
+    "description": "[25] KATAKANA LETTER O..KATAKANA LETTER DI"
+  },
+  {
+    "codepoint": "30C4..30E2",
+    "vo": "U",
+    "description": "[31] KATAKANA LETTER TU..KATAKANA LETTER MO"
+  },
+  { "codepoint": "30E4", "vo": "U", "description": "KATAKANA LETTER YA" },
+  { "codepoint": "30E6", "vo": "U", "description": "KATAKANA LETTER YU" },
+  {
+    "codepoint": "30E8..30ED",
+    "vo": "U",
+    "description": "[6] KATAKANA LETTER YO..KATAKANA LETTER RO"
+  },
+  {
+    "codepoint": "30EF..30F4",
+    "vo": "U",
+    "description": "[6] KATAKANA LETTER WA..KATAKANA LETTER VU"
+  },
+  {
+    "codepoint": "30F7..30FA",
+    "vo": "U",
+    "description": "[4] KATAKANA LETTER VA..KATAKANA LETTER VO"
+  },
+  { "codepoint": "30FB", "vo": "U", "description": "KATAKANA MIDDLE DOT" },
+  {
+    "codepoint": "30FD..30FE",
+    "vo": "U",
+    "description": "[2] KATAKANA ITERATION MARK..KATAKANA VOICED ITERATION MARK"
+  },
+  { "codepoint": "30FF", "vo": "U", "description": "KATAKANA DIGRAPH KOTO" },
+  {
+    "codepoint": "3100..3104",
+    "vo": "U",
+    "description": "[5] <reserved-3100>..<reserved-3104>"
+  },
+  {
+    "codepoint": "3105..3126",
+    "vo": "U",
+    "description": "[34] BOPOMOFO LETTER B..BOPOMOFO LETTER ER"
+  },
+  {
+    "codepoint": "3128..312F",
+    "vo": "U",
+    "description": "[8] BOPOMOFO LETTER U..BOPOMOFO LETTER NN"
+  },
+  { "codepoint": "3130", "vo": "U", "description": "<reserved-3130>" },
+  {
+    "codepoint": "3131..318E",
+    "vo": "U",
+    "description": "[94] HANGUL LETTER KIYEOK..HANGUL LETTER ARAEAE"
+  },
+  { "codepoint": "318F", "vo": "U", "description": "<reserved-318F>" },
+  {
+    "codepoint": "3190..3191",
+    "vo": "U",
+    "description": "[2] IDEOGRAPHIC ANNOTATION LINKING MARK..IDEOGRAPHIC ANNOTATION REVERSE MARK"
+  },
+  {
+    "codepoint": "3192..3195",
+    "vo": "U",
+    "description": "[4] IDEOGRAPHIC ANNOTATION ONE MARK..IDEOGRAPHIC ANNOTATION FOUR MARK"
+  },
+  {
+    "codepoint": "3196..319F",
+    "vo": "U",
+    "description": "[10] IDEOGRAPHIC ANNOTATION TOP MARK..IDEOGRAPHIC ANNOTATION MAN MARK"
+  },
+  {
+    "codepoint": "31A0..31BF",
+    "vo": "U",
+    "description": "[32] BOPOMOFO LETTER BU..BOPOMOFO LETTER AH"
+  },
+  {
+    "codepoint": "31C0..31E3",
+    "vo": "U",
+    "description": "[36] CJK STROKE T..CJK STROKE Q"
+  },
+  {
+    "codepoint": "31E4..31EF",
+    "vo": "U",
+    "description": "[12] <reserved-31E4>..<reserved-31EF>"
+  },
+  {
+    "codepoint": "3200..321E",
+    "vo": "U",
+    "description": "[31] PARENTHESIZED HANGUL KIYEOK..PARENTHESIZED KOREAN CHARACTER O HU"
+  },
+  { "codepoint": "321F", "vo": "U", "description": "<reserved-321F>" },
+  {
+    "codepoint": "3220..3229",
+    "vo": "U",
+    "description": "[10] PARENTHESIZED IDEOGRAPH ONE..PARENTHESIZED IDEOGRAPH TEN"
+  },
+  {
+    "codepoint": "322A..3247",
+    "vo": "U",
+    "description": "[30] PARENTHESIZED IDEOGRAPH MOON..CIRCLED IDEOGRAPH KOTO"
+  },
+  {
+    "codepoint": "3248..324F",
+    "vo": "U",
+    "description": "[8] CIRCLED NUMBER TEN ON BLACK SQUARE..CIRCLED NUMBER EIGHTY ON BLACK SQUARE"
+  },
+  { "codepoint": "3250", "vo": "U", "description": "PARTNERSHIP SIGN" },
+  {
+    "codepoint": "3251..325F",
+    "vo": "U",
+    "description": "[15] CIRCLED NUMBER TWENTY ONE..CIRCLED NUMBER THIRTY FIVE"
+  },
+  {
+    "codepoint": "3260..327F",
+    "vo": "U",
+    "description": "[32] CIRCLED HANGUL KIYEOK..KOREAN STANDARD SYMBOL"
+  },
+  {
+    "codepoint": "3280..3289",
+    "vo": "U",
+    "description": "[10] CIRCLED IDEOGRAPH ONE..CIRCLED IDEOGRAPH TEN"
+  },
+  {
+    "codepoint": "328A..32B0",
+    "vo": "U",
+    "description": "[39] CIRCLED IDEOGRAPH MOON..CIRCLED IDEOGRAPH NIGHT"
+  },
+  {
+    "codepoint": "32B1..32BF",
+    "vo": "U",
+    "description": "[15] CIRCLED NUMBER THIRTY SIX..CIRCLED NUMBER FIFTY"
+  },
+  {
+    "codepoint": "32C0..32FE",
+    "vo": "U",
+    "description": "[63] IDEOGRAPHIC TELEGRAPH SYMBOL FOR JANUARY..CIRCLED KATAKANA WO"
+  },
+  {
+    "codepoint": "3358..337A",
+    "vo": "U",
+    "description": "[35] IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ZERO..SQUARE IU"
+  },
+  {
+    "codepoint": "3380..33FF",
+    "vo": "U",
+    "description": "[128] SQUARE PA AMPS..SQUARE GAL"
+  },
+  {
+    "codepoint": "3400..4DBF",
+    "vo": "U",
+    "description": "[6592] CJK UNIFIED IDEOGRAPH-3400..CJK UNIFIED IDEOGRAPH-4DBF"
+  },
+  {
+    "codepoint": "4DC0..4DFF",
+    "vo": "U",
+    "description": "[64] HEXAGRAM FOR THE CREATIVE HEAVEN..HEXAGRAM FOR BEFORE COMPLETION"
+  },
+  {
+    "codepoint": "4E00..9FFF",
+    "vo": "U",
+    "description": "[20992] CJK UNIFIED IDEOGRAPH-4E00..CJK UNIFIED IDEOGRAPH-9FFF"
+  },
+  {
+    "codepoint": "A000..A014",
+    "vo": "U",
+    "description": "[21] YI SYLLABLE IT..YI SYLLABLE E"
+  },
+  { "codepoint": "A015", "vo": "U", "description": "YI SYLLABLE WU" },
+  {
+    "codepoint": "A016..A48C",
+    "vo": "U",
+    "description": "[1143] YI SYLLABLE BIT..YI SYLLABLE YYR"
+  },
+  {
+    "codepoint": "A48D..A48F",
+    "vo": "U",
+    "description": "[3] <reserved-A48D>..<reserved-A48F>"
+  },
+  {
+    "codepoint": "A490..A4C6",
+    "vo": "U",
+    "description": "[55] YI RADICAL QOT..YI RADICAL KE"
+  },
+  {
+    "codepoint": "A4C7..A4CF",
+    "vo": "U",
+    "description": "[9] <reserved-A4C7>..<reserved-A4CF>"
+  },
+  {
+    "codepoint": "A960..A97C",
+    "vo": "U",
+    "description": "[29] HANGUL CHOSEONG TIKEUT-MIEUM..HANGUL CHOSEONG SSANGYEORINHIEUH"
+  },
+  {
+    "codepoint": "A97D..A97F",
+    "vo": "U",
+    "description": "[3] <reserved-A97D>..<reserved-A97F>"
+  },
+  {
+    "codepoint": "AC00..D7A3",
+    "vo": "U",
+    "description": "[11172] HANGUL SYLLABLE GA..HANGUL SYLLABLE HIH"
+  },
+  {
+    "codepoint": "D7A4..D7AF",
+    "vo": "U",
+    "description": "[12] <reserved-D7A4>..<reserved-D7AF>"
+  },
+  {
+    "codepoint": "D7B0..D7C6",
+    "vo": "U",
+    "description": "[23] HANGUL JUNGSEONG O-YEO..HANGUL JUNGSEONG ARAEA-E"
+  },
+  {
+    "codepoint": "D7C7..D7CA",
+    "vo": "U",
+    "description": "[4] <reserved-D7C7>..<reserved-D7CA>"
+  },
+  {
+    "codepoint": "D7CB..D7FB",
+    "vo": "U",
+    "description": "[49] HANGUL JONGSEONG NIEUN-RIEUL..HANGUL JONGSEONG PHIEUPH-THIEUTH"
+  },
+  {
+    "codepoint": "D7FC..D7FF",
+    "vo": "U",
+    "description": "[4] <reserved-D7FC>..<reserved-D7FF>"
+  },
+  {
+    "codepoint": "E000..F8FF",
+    "vo": "U",
+    "description": "[6400] <private-use-E000>..<private-use-F8FF>"
+  },
+  {
+    "codepoint": "F900..FA6D",
+    "vo": "U",
+    "description": "[366] CJK COMPATIBILITY IDEOGRAPH-F900..CJK COMPATIBILITY IDEOGRAPH-FA6D"
+  },
+  {
+    "codepoint": "FA6E..FA6F",
+    "vo": "U",
+    "description": "[2] <reserved-FA6E>..<reserved-FA6F>"
+  },
+  {
+    "codepoint": "FA70..FAD9",
+    "vo": "U",
+    "description": "[106] CJK COMPATIBILITY IDEOGRAPH-FA70..CJK COMPATIBILITY IDEOGRAPH-FAD9"
+  },
+  {
+    "codepoint": "FADA..FAFF",
+    "vo": "U",
+    "description": "[38] <reserved-FADA>..<reserved-FAFF>"
+  },
+  {
+    "codepoint": "FE10..FE16",
+    "vo": "U",
+    "description": "[7] PRESENTATION FORM FOR VERTICAL COMMA..PRESENTATION FORM FOR VERTICAL QUESTION MARK"
+  },
+  {
+    "codepoint": "FE17",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL LEFT WHITE LENTICULAR BRACKET"
+  },
+  {
+    "codepoint": "FE18",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL RIGHT WHITE LENTICULAR BRAKCET"
+  },
+  {
+    "codepoint": "FE19",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL HORIZONTAL ELLIPSIS"
+  },
+  {
+    "codepoint": "FE1A..FE1F",
+    "vo": "U",
+    "description": "[6] <reserved-FE1A>..<reserved-FE1F>"
+  },
+  {
+    "codepoint": "FE30",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL TWO DOT LEADER"
+  },
+  {
+    "codepoint": "FE31..FE32",
+    "vo": "U",
+    "description": "[2] PRESENTATION FORM FOR VERTICAL EM DASH..PRESENTATION FORM FOR VERTICAL EN DASH"
+  },
+  {
+    "codepoint": "FE33..FE34",
+    "vo": "U",
+    "description": "[2] PRESENTATION FORM FOR VERTICAL LOW LINE..PRESENTATION FORM FOR VERTICAL WAVY LOW LINE"
+  },
+  {
+    "codepoint": "FE35",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL LEFT PARENTHESIS"
+  },
+  {
+    "codepoint": "FE36",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL RIGHT PARENTHESIS"
+  },
+  {
+    "codepoint": "FE37",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL LEFT CURLY BRACKET"
+  },
+  {
+    "codepoint": "FE38",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL RIGHT CURLY BRACKET"
+  },
+  {
+    "codepoint": "FE39",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL LEFT TORTOISE SHELL BRACKET"
+  },
+  {
+    "codepoint": "FE3A",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL RIGHT TORTOISE SHELL BRACKET"
+  },
+  {
+    "codepoint": "FE3B",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL LEFT BLACK LENTICULAR BRACKET"
+  },
+  {
+    "codepoint": "FE3C",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL RIGHT BLACK LENTICULAR BRACKET"
+  },
+  {
+    "codepoint": "FE3D",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL LEFT DOUBLE ANGLE BRACKET"
+  },
+  {
+    "codepoint": "FE3E",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL RIGHT DOUBLE ANGLE BRACKET"
+  },
+  {
+    "codepoint": "FE3F",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL LEFT ANGLE BRACKET"
+  },
+  {
+    "codepoint": "FE40",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL RIGHT ANGLE BRACKET"
+  },
+  {
+    "codepoint": "FE41",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL LEFT CORNER BRACKET"
+  },
+  {
+    "codepoint": "FE42",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL RIGHT CORNER BRACKET"
+  },
+  {
+    "codepoint": "FE43",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL LEFT WHITE CORNER BRACKET"
+  },
+  {
+    "codepoint": "FE44",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL RIGHT WHITE CORNER BRACKET"
+  },
+  {
+    "codepoint": "FE45..FE46",
+    "vo": "U",
+    "description": "[2] SESAME DOT..WHITE SESAME DOT"
+  },
+  {
+    "codepoint": "FE47",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL LEFT SQUARE BRACKET"
+  },
+  {
+    "codepoint": "FE48",
+    "vo": "U",
+    "description": "PRESENTATION FORM FOR VERTICAL RIGHT SQUARE BRACKET"
+  },
+  { "codepoint": "FE53", "vo": "U", "description": "<reserved-FE53>" },
+  {
+    "codepoint": "FE54..FE57",
+    "vo": "U",
+    "description": "[4] SMALL SEMICOLON..SMALL EXCLAMATION MARK"
+  },
+  {
+    "codepoint": "FE5F..FE61",
+    "vo": "U",
+    "description": "[3] SMALL NUMBER SIGN..SMALL ASTERISK"
+  },
+  { "codepoint": "FE62", "vo": "U", "description": "SMALL PLUS SIGN" },
+  { "codepoint": "FE67", "vo": "U", "description": "<reserved-FE67>" },
+  { "codepoint": "FE68", "vo": "U", "description": "SMALL REVERSE SOLIDUS" },
+  { "codepoint": "FE69", "vo": "U", "description": "SMALL DOLLAR SIGN" },
+  {
+    "codepoint": "FE6A..FE6B",
+    "vo": "U",
+    "description": "[2] SMALL PERCENT SIGN..SMALL COMMERCIAL AT"
+  },
+  {
+    "codepoint": "FE6C..FE6F",
+    "vo": "U",
+    "description": "[4] <reserved-FE6C>..<reserved-FE6F>"
+  },
+  {
+    "codepoint": "FF02..FF03",
+    "vo": "U",
+    "description": "[2] FULLWIDTH QUOTATION MARK..FULLWIDTH NUMBER SIGN"
+  },
+  { "codepoint": "FF04", "vo": "U", "description": "FULLWIDTH DOLLAR SIGN" },
+  {
+    "codepoint": "FF05..FF07",
+    "vo": "U",
+    "description": "[3] FULLWIDTH PERCENT SIGN..FULLWIDTH APOSTROPHE"
+  },
+  { "codepoint": "FF0A", "vo": "U", "description": "FULLWIDTH ASTERISK" },
+  { "codepoint": "FF0B", "vo": "U", "description": "FULLWIDTH PLUS SIGN" },
+  { "codepoint": "FF0F", "vo": "U", "description": "FULLWIDTH SOLIDUS" },
+  {
+    "codepoint": "FF10..FF19",
+    "vo": "U",
+    "description": "[10] FULLWIDTH DIGIT ZERO..FULLWIDTH DIGIT NINE"
+  },
+  { "codepoint": "FF20", "vo": "U", "description": "FULLWIDTH COMMERCIAL AT" },
+  {
+    "codepoint": "FF21..FF3A",
+    "vo": "U",
+    "description": "[26] FULLWIDTH LATIN CAPITAL LETTER A..FULLWIDTH LATIN CAPITAL LETTER Z"
+  },
+  {
+    "codepoint": "FF3C",
+    "vo": "U",
+    "description": "FULLWIDTH REVERSE SOLIDUS"
+  },
+  {
+    "codepoint": "FF3E",
+    "vo": "U",
+    "description": "FULLWIDTH CIRCUMFLEX ACCENT"
+  },
+  { "codepoint": "FF40", "vo": "U", "description": "FULLWIDTH GRAVE ACCENT" },
+  {
+    "codepoint": "FF41..FF5A",
+    "vo": "U",
+    "description": "[26] FULLWIDTH LATIN SMALL LETTER A..FULLWIDTH LATIN SMALL LETTER Z"
+  },
+  {
+    "codepoint": "FFE0..FFE1",
+    "vo": "U",
+    "description": "[2] FULLWIDTH CENT SIGN..FULLWIDTH POUND SIGN"
+  },
+  { "codepoint": "FFE2", "vo": "U", "description": "FULLWIDTH NOT SIGN" },
+  { "codepoint": "FFE4", "vo": "U", "description": "FULLWIDTH BROKEN BAR" },
+  {
+    "codepoint": "FFE5..FFE6",
+    "vo": "U",
+    "description": "[2] FULLWIDTH YEN SIGN..FULLWIDTH WON SIGN"
+  },
+  { "codepoint": "FFE7", "vo": "U", "description": "<reserved-FFE7>" },
+  {
+    "codepoint": "FFF0..FFF8",
+    "vo": "U",
+    "description": "[9] <reserved-FFF0>..<reserved-FFF8>"
+  },
+  {
+    "codepoint": "FFFC..FFFD",
+    "vo": "U",
+    "description": "[2] OBJECT REPLACEMENT CHARACTER..REPLACEMENT CHARACTER"
+  },
+  {
+    "codepoint": "10980..1099F",
+    "vo": "U",
+    "description": "[32] MEROITIC HIEROGLYPHIC LETTER A..MEROITIC HIEROGLYPHIC SYMBOL VIDJ-2"
+  },
+  {
+    "codepoint": "11580..115AE",
+    "vo": "U",
+    "description": "[47] SIDDHAM LETTER A..SIDDHAM LETTER HA"
+  },
+  {
+    "codepoint": "115AF..115B1",
+    "vo": "U",
+    "description": "[3] SIDDHAM VOWEL SIGN AA..SIDDHAM VOWEL SIGN II"
+  },
+  {
+    "codepoint": "115B2..115B5",
+    "vo": "U",
+    "description": "[4] SIDDHAM VOWEL SIGN U..SIDDHAM VOWEL SIGN VOCALIC RR"
+  },
+  {
+    "codepoint": "115B6..115B7",
+    "vo": "U",
+    "description": "[2] <reserved-115B6>..<reserved-115B7>"
+  },
+  {
+    "codepoint": "115B8..115BB",
+    "vo": "U",
+    "description": "[4] SIDDHAM VOWEL SIGN E..SIDDHAM VOWEL SIGN AU"
+  },
+  {
+    "codepoint": "115BC..115BD",
+    "vo": "U",
+    "description": "[2] SIDDHAM SIGN CANDRABINDU..SIDDHAM SIGN ANUSVARA"
+  },
+  { "codepoint": "115BE", "vo": "U", "description": "SIDDHAM SIGN VISARGA" },
+  {
+    "codepoint": "115BF..115C0",
+    "vo": "U",
+    "description": "[2] SIDDHAM SIGN VIRAMA..SIDDHAM SIGN NUKTA"
+  },
+  {
+    "codepoint": "115C1..115D7",
+    "vo": "U",
+    "description": "[23] SIDDHAM SIGN SIDDHAM..SIDDHAM SECTION MARK WITH CIRCLES AND FOUR ENCLOSURES"
+  },
+  {
+    "codepoint": "115D8..115DB",
+    "vo": "U",
+    "description": "[4] SIDDHAM LETTER THREE-CIRCLE ALTERNATE I..SIDDHAM LETTER ALTERNATE U"
+  },
+  {
+    "codepoint": "115DC..115DD",
+    "vo": "U",
+    "description": "[2] SIDDHAM VOWEL SIGN ALTERNATE U..SIDDHAM VOWEL SIGN ALTERNATE UU"
+  },
+  {
+    "codepoint": "115DE..115FF",
+    "vo": "U",
+    "description": "[34] <reserved-115DE>..<reserved-115FF>"
+  },
+  {
+    "codepoint": "11A00",
+    "vo": "U",
+    "description": "ZANABAZAR SQUARE LETTER A"
+  },
+  {
+    "codepoint": "11A01..11A0A",
+    "vo": "U",
+    "description": "[10] ZANABAZAR SQUARE VOWEL SIGN I..ZANABAZAR SQUARE VOWEL LENGTH MARK"
+  },
+  {
+    "codepoint": "11A0B..11A32",
+    "vo": "U",
+    "description": "[40] ZANABAZAR SQUARE LETTER KA..ZANABAZAR SQUARE LETTER KSSA"
+  },
+  {
+    "codepoint": "11A33..11A38",
+    "vo": "U",
+    "description": "[6] ZANABAZAR SQUARE FINAL CONSONANT MARK..ZANABAZAR SQUARE SIGN ANUSVARA"
+  },
+  {
+    "codepoint": "11A39",
+    "vo": "U",
+    "description": "ZANABAZAR SQUARE SIGN VISARGA"
+  },
+  {
+    "codepoint": "11A3A",
+    "vo": "U",
+    "description": "ZANABAZAR SQUARE CLUSTER-INITIAL LETTER RA"
+  },
+  {
+    "codepoint": "11A3B..11A3E",
+    "vo": "U",
+    "description": "[4] ZANABAZAR SQUARE CLUSTER-FINAL LETTER YA..ZANABAZAR SQUARE CLUSTER-FINAL LETTER VA"
+  },
+  {
+    "codepoint": "11A3F..11A46",
+    "vo": "U",
+    "description": "[8] ZANABAZAR SQUARE INITIAL HEAD MARK..ZANABAZAR SQUARE CLOSING DOUBLE-LINED HEAD MARK"
+  },
+  {
+    "codepoint": "11A47",
+    "vo": "U",
+    "description": "ZANABAZAR SQUARE SUBJOINER"
+  },
+  {
+    "codepoint": "11A48..11A4F",
+    "vo": "U",
+    "description": "[8] <reserved-11A48>..<reserved-11A4F>"
+  },
+  { "codepoint": "11A50", "vo": "U", "description": "SOYOMBO LETTER A" },
+  {
+    "codepoint": "11A51..11A56",
+    "vo": "U",
+    "description": "[6] SOYOMBO VOWEL SIGN I..SOYOMBO VOWEL SIGN OE"
+  },
+  {
+    "codepoint": "11A57..11A58",
+    "vo": "U",
+    "description": "[2] SOYOMBO VOWEL SIGN AI..SOYOMBO VOWEL SIGN AU"
+  },
+  {
+    "codepoint": "11A59..11A5B",
+    "vo": "U",
+    "description": "[3] SOYOMBO VOWEL SIGN VOCALIC R..SOYOMBO VOWEL LENGTH MARK"
+  },
+  {
+    "codepoint": "11A5C..11A89",
+    "vo": "U",
+    "description": "[46] SOYOMBO LETTER KA..SOYOMBO CLUSTER-INITIAL LETTER SA"
+  },
+  {
+    "codepoint": "11A8A..11A96",
+    "vo": "U",
+    "description": "[13] SOYOMBO FINAL CONSONANT SIGN G..SOYOMBO SIGN ANUSVARA"
+  },
+  { "codepoint": "11A97", "vo": "U", "description": "SOYOMBO SIGN VISARGA" },
+  {
+    "codepoint": "11A98..11A99",
+    "vo": "U",
+    "description": "[2] SOYOMBO GEMINATION MARK..SOYOMBO SUBJOINER"
+  },
+  {
+    "codepoint": "11A9A..11A9C",
+    "vo": "U",
+    "description": "[3] SOYOMBO MARK TSHEG..SOYOMBO MARK DOUBLE SHAD"
+  },
+  { "codepoint": "11A9D", "vo": "U", "description": "SOYOMBO MARK PLUTA" },
+  {
+    "codepoint": "11A9E..11AA2",
+    "vo": "U",
+    "description": "[5] SOYOMBO HEAD MARK WITH MOON AND SUN AND TRIPLE FLAME..SOYOMBO TERMINAL MARK-2"
+  },
+  {
+    "codepoint": "11AA3..11AAF",
+    "vo": "U",
+    "description": "[13] <reserved-11AA3>..<reserved-11AAF>"
+  },
+  {
+    "codepoint": "11AB0..11ABF",
+    "vo": "U",
+    "description": "[16] CANADIAN SYLLABICS NATTILIK HI..CANADIAN SYLLABICS SPA"
+  },
+  {
+    "codepoint": "13000..1342E",
+    "vo": "U",
+    "description": "[1071] EGYPTIAN HIEROGLYPH A001..EGYPTIAN HIEROGLYPH AA032"
+  },
+  { "codepoint": "1342F", "vo": "U", "description": "<reserved-1342F>" },
+  {
+    "codepoint": "13430..13438",
+    "vo": "U",
+    "description": "[9] EGYPTIAN HIEROGLYPH VERTICAL JOINER..EGYPTIAN HIEROGLYPH END SEGMENT"
+  },
+  {
+    "codepoint": "13439..1343F",
+    "vo": "U",
+    "description": "[7] <reserved-13439>..<reserved-1343F>"
+  },
+  {
+    "codepoint": "14400..14646",
+    "vo": "U",
+    "description": "[583] ANATOLIAN HIEROGLYPH A001..ANATOLIAN HIEROGLYPH A530"
+  },
+  {
+    "codepoint": "14647..1467F",
+    "vo": "U",
+    "description": "[57] <reserved-14647>..<reserved-1467F>"
+  },
+  {
+    "codepoint": "16FE0..16FE1",
+    "vo": "U",
+    "description": "[2] TANGUT ITERATION MARK..NUSHU ITERATION MARK"
+  },
+  { "codepoint": "16FE2", "vo": "U", "description": "OLD CHINESE HOOK MARK" },
+  {
+    "codepoint": "16FE3",
+    "vo": "U",
+    "description": "OLD CHINESE ITERATION MARK"
+  },
+  {
+    "codepoint": "16FE4",
+    "vo": "U",
+    "description": "KHITAN SMALL SCRIPT FILLER"
+  },
+  {
+    "codepoint": "16FE5..16FEF",
+    "vo": "U",
+    "description": "[11] <reserved-16FE5>..<reserved-16FEF>"
+  },
+  {
+    "codepoint": "16FF0..16FF1",
+    "vo": "U",
+    "description": "[2] VIETNAMESE ALTERNATE READING MARK CA..VIETNAMESE ALTERNATE READING MARK NHAY"
+  },
+  {
+    "codepoint": "16FF2..16FFF",
+    "vo": "U",
+    "description": "[14] <reserved-16FF2>..<reserved-16FFF>"
+  },
+  {
+    "codepoint": "17000..187F7",
+    "vo": "U",
+    "description": "[6136] TANGUT IDEOGRAPH-17000..TANGUT IDEOGRAPH-187F7"
+  },
+  {
+    "codepoint": "187F8..187FF",
+    "vo": "U",
+    "description": "[8] <reserved-187F8>..<reserved-187FF>"
+  },
+  {
+    "codepoint": "18800..18AFF",
+    "vo": "U",
+    "description": "[768] TANGUT COMPONENT-001..TANGUT COMPONENT-768"
+  },
+  {
+    "codepoint": "18B00..18CD5",
+    "vo": "U",
+    "description": "[470] KHITAN SMALL SCRIPT CHARACTER-18B00..KHITAN SMALL SCRIPT CHARACTER-18CD5"
+  },
+  {
+    "codepoint": "18CD6..18CFF",
+    "vo": "U",
+    "description": "[42] <reserved-18CD6>..<reserved-18CFF>"
+  },
+  {
+    "codepoint": "18D00..18D08",
+    "vo": "U",
+    "description": "[9] TANGUT IDEOGRAPH-18D00..TANGUT IDEOGRAPH-18D08"
+  },
+  {
+    "codepoint": "18D09..18D7F",
+    "vo": "U",
+    "description": "[119] <reserved-18D09>..<reserved-18D7F>"
+  },
+  {
+    "codepoint": "1AFF0..1AFF3",
+    "vo": "U",
+    "description": "[4] KATAKANA LETTER MINNAN TONE-2..KATAKANA LETTER MINNAN TONE-5"
+  },
+  { "codepoint": "1AFF4", "vo": "U", "description": "<reserved-1AFF4>" },
+  {
+    "codepoint": "1AFF5..1AFFB",
+    "vo": "U",
+    "description": "[7] KATAKANA LETTER MINNAN TONE-7..KATAKANA LETTER MINNAN NASALIZED TONE-5"
+  },
+  { "codepoint": "1AFFC", "vo": "U", "description": "<reserved-1AFFC>" },
+  {
+    "codepoint": "1AFFD..1AFFE",
+    "vo": "U",
+    "description": "[2] KATAKANA LETTER MINNAN NASALIZED TONE-7..KATAKANA LETTER MINNAN NASALIZED TONE-8"
+  },
+  { "codepoint": "1AFFF", "vo": "U", "description": "<reserved-1AFFF>" },
+  {
+    "codepoint": "1B000..1B0FF",
+    "vo": "U",
+    "description": "[256] KATAKANA LETTER ARCHAIC E..HENTAIGANA LETTER RE-2"
+  },
+  {
+    "codepoint": "1B100..1B122",
+    "vo": "U",
+    "description": "[35] HENTAIGANA LETTER RE-3..KATAKANA LETTER ARCHAIC WU"
+  },
+  {
+    "codepoint": "1B123..1B12F",
+    "vo": "U",
+    "description": "[13] <reserved-1B123>..<reserved-1B12F>"
+  },
+  {
+    "codepoint": "1B130..1B14F",
+    "vo": "U",
+    "description": "[32] <reserved-1B130>..<reserved-1B14F>"
+  },
+  {
+    "codepoint": "1B150..1B152",
+    "vo": "U",
+    "description": "[3] HIRAGANA LETTER SMALL WI..HIRAGANA LETTER SMALL WO"
+  },
+  {
+    "codepoint": "1B153..1B163",
+    "vo": "U",
+    "description": "[17] <reserved-1B153>..<reserved-1B163>"
+  },
+  {
+    "codepoint": "1B164..1B167",
+    "vo": "U",
+    "description": "[4] KATAKANA LETTER SMALL WI..KATAKANA LETTER SMALL N"
+  },
+  {
+    "codepoint": "1B168..1B16F",
+    "vo": "U",
+    "description": "[8] <reserved-1B168>..<reserved-1B16F>"
+  },
+  {
+    "codepoint": "1B170..1B2FB",
+    "vo": "U",
+    "description": "[396] NUSHU CHARACTER-1B170..NUSHU CHARACTER-1B2FB"
+  },
+  {
+    "codepoint": "1B2FC..1B2FF",
+    "vo": "U",
+    "description": "[4] <reserved-1B2FC>..<reserved-1B2FF>"
+  },
+  {
+    "codepoint": "1CF00..1CF2D",
+    "vo": "U",
+    "description": "[46] ZNAMENNY COMBINING MARK GORAZDO NIZKO S KRYZHEM ON LEFT..ZNAMENNY COMBINING MARK KRYZH ON LEFT"
+  },
+  {
+    "codepoint": "1CF2E..1CF2F",
+    "vo": "U",
+    "description": "[2] <reserved-1CF2E>..<reserved-1CF2F>"
+  },
+  {
+    "codepoint": "1CF30..1CF46",
+    "vo": "U",
+    "description": "[23] ZNAMENNY COMBINING TONAL RANGE MARK MRACHNO..ZNAMENNY PRIZNAK MODIFIER ROG"
+  },
+  {
+    "codepoint": "1CF47..1CF4F",
+    "vo": "U",
+    "description": "[9] <reserved-1CF47>..<reserved-1CF4F>"
+  },
+  {
+    "codepoint": "1CF50..1CFC3",
+    "vo": "U",
+    "description": "[116] ZNAMENNY NEUME KRYUK..ZNAMENNY NEUME PAUK"
+  },
+  {
+    "codepoint": "1CFC4..1CFCF",
+    "vo": "U",
+    "description": "[12] <reserved-1CFC4>..<reserved-1CFCF>"
+  },
+  {
+    "codepoint": "1D000..1D0F5",
+    "vo": "U",
+    "description": "[246] BYZANTINE MUSICAL SYMBOL PSILI..BYZANTINE MUSICAL SYMBOL GORGON NEO KATO"
+  },
+  {
+    "codepoint": "1D0F6..1D0FF",
+    "vo": "U",
+    "description": "[10] <reserved-1D0F6>..<reserved-1D0FF>"
+  },
+  {
+    "codepoint": "1D100..1D126",
+    "vo": "U",
+    "description": "[39] MUSICAL SYMBOL SINGLE BARLINE..MUSICAL SYMBOL DRUM CLEF-2"
+  },
+  {
+    "codepoint": "1D127..1D128",
+    "vo": "U",
+    "description": "[2] <reserved-1D127>..<reserved-1D128>"
+  },
+  {
+    "codepoint": "1D129..1D164",
+    "vo": "U",
+    "description": "[60] MUSICAL SYMBOL MULTIPLE MEASURE REST..MUSICAL SYMBOL ONE HUNDRED TWENTY-EIGHTH NOTE"
+  },
+  {
+    "codepoint": "1D165..1D166",
+    "vo": "U",
+    "description": "[2] MUSICAL SYMBOL COMBINING STEM..MUSICAL SYMBOL COMBINING SPRECHGESANG STEM"
+  },
+  {
+    "codepoint": "1D167..1D169",
+    "vo": "U",
+    "description": "[3] MUSICAL SYMBOL COMBINING TREMOLO-1..MUSICAL SYMBOL COMBINING TREMOLO-3"
+  },
+  {
+    "codepoint": "1D16A..1D16C",
+    "vo": "U",
+    "description": "[3] MUSICAL SYMBOL FINGERED TREMOLO-1..MUSICAL SYMBOL FINGERED TREMOLO-3"
+  },
+  {
+    "codepoint": "1D16D..1D172",
+    "vo": "U",
+    "description": "[6] MUSICAL SYMBOL COMBINING AUGMENTATION DOT..MUSICAL SYMBOL COMBINING FLAG-5"
+  },
+  {
+    "codepoint": "1D173..1D17A",
+    "vo": "U",
+    "description": "[8] MUSICAL SYMBOL BEGIN BEAM..MUSICAL SYMBOL END PHRASE"
+  },
+  {
+    "codepoint": "1D17B..1D182",
+    "vo": "U",
+    "description": "[8] MUSICAL SYMBOL COMBINING ACCENT..MUSICAL SYMBOL COMBINING LOURE"
+  },
+  {
+    "codepoint": "1D183..1D184",
+    "vo": "U",
+    "description": "[2] MUSICAL SYMBOL ARPEGGIATO UP..MUSICAL SYMBOL ARPEGGIATO DOWN"
+  },
+  {
+    "codepoint": "1D185..1D18B",
+    "vo": "U",
+    "description": "[7] MUSICAL SYMBOL COMBINING DOIT..MUSICAL SYMBOL COMBINING TRIPLE TONGUE"
+  },
+  {
+    "codepoint": "1D18C..1D1A9",
+    "vo": "U",
+    "description": "[30] MUSICAL SYMBOL RINFORZANDO..MUSICAL SYMBOL DEGREE SLASH"
+  },
+  {
+    "codepoint": "1D1AA..1D1AD",
+    "vo": "U",
+    "description": "[4] MUSICAL SYMBOL COMBINING DOWN BOW..MUSICAL SYMBOL COMBINING SNAP PIZZICATO"
+  },
+  {
+    "codepoint": "1D1AE..1D1EA",
+    "vo": "U",
+    "description": "[61] MUSICAL SYMBOL PEDAL MARK..MUSICAL SYMBOL KORON"
+  },
+  {
+    "codepoint": "1D1EB..1D1FF",
+    "vo": "U",
+    "description": "[21] <reserved-1D1EB>..<reserved-1D1FF>"
+  },
+  {
+    "codepoint": "1D2E0..1D2F3",
+    "vo": "U",
+    "description": "[20] MAYAN NUMERAL ZERO..MAYAN NUMERAL NINETEEN"
+  },
+  {
+    "codepoint": "1D2F4..1D2FF",
+    "vo": "U",
+    "description": "[12] <reserved-1D2F4>..<reserved-1D2FF>"
+  },
+  {
+    "codepoint": "1D300..1D356",
+    "vo": "U",
+    "description": "[87] MONOGRAM FOR EARTH..TETRAGRAM FOR FOSTERING"
+  },
+  {
+    "codepoint": "1D357..1D35F",
+    "vo": "U",
+    "description": "[9] <reserved-1D357>..<reserved-1D35F>"
+  },
+  {
+    "codepoint": "1D360..1D378",
+    "vo": "U",
+    "description": "[25] COUNTING ROD UNIT DIGIT ONE..TALLY MARK FIVE"
+  },
+  {
+    "codepoint": "1D379..1D37F",
+    "vo": "U",
+    "description": "[7] <reserved-1D379>..<reserved-1D37F>"
+  },
+  {
+    "codepoint": "1D800..1D9FF",
+    "vo": "U",
+    "description": "[512] SIGNWRITING HAND-FIST INDEX..SIGNWRITING HEAD"
+  },
+  {
+    "codepoint": "1DA00..1DA36",
+    "vo": "U",
+    "description": "[55] SIGNWRITING HEAD RIM..SIGNWRITING AIR SUCKING IN"
+  },
+  {
+    "codepoint": "1DA37..1DA3A",
+    "vo": "U",
+    "description": "[4] SIGNWRITING AIR BLOW SMALL ROTATIONS..SIGNWRITING BREATH EXHALE"
+  },
+  {
+    "codepoint": "1DA3B..1DA6C",
+    "vo": "U",
+    "description": "[50] SIGNWRITING MOUTH CLOSED NEUTRAL..SIGNWRITING EXCITEMENT"
+  },
+  {
+    "codepoint": "1DA6D..1DA74",
+    "vo": "U",
+    "description": "[8] SIGNWRITING SHOULDER HIP SPINE..SIGNWRITING TORSO-FLOORPLANE TWISTING"
+  },
+  {
+    "codepoint": "1DA75",
+    "vo": "U",
+    "description": "SIGNWRITING UPPER BODY TILTING FROM HIP JOINTS"
+  },
+  {
+    "codepoint": "1DA76..1DA83",
+    "vo": "U",
+    "description": "[14] SIGNWRITING LIMB COMBINATION..SIGNWRITING LOCATION DEPTH"
+  },
+  {
+    "codepoint": "1DA84",
+    "vo": "U",
+    "description": "SIGNWRITING LOCATION HEAD NECK"
+  },
+  {
+    "codepoint": "1DA85..1DA86",
+    "vo": "U",
+    "description": "[2] SIGNWRITING LOCATION TORSO..SIGNWRITING LOCATION LIMBS DIGITS"
+  },
+  {
+    "codepoint": "1DA87..1DA8B",
+    "vo": "U",
+    "description": "[5] SIGNWRITING COMMA..SIGNWRITING PARENTHESIS"
+  },
+  {
+    "codepoint": "1DA8C..1DA9A",
+    "vo": "U",
+    "description": "[15] <reserved-1DA8C>..<reserved-1DA9A>"
+  },
+  {
+    "codepoint": "1DA9B..1DA9F",
+    "vo": "U",
+    "description": "[5] SIGNWRITING FILL MODIFIER-2..SIGNWRITING FILL MODIFIER-6"
+  },
+  { "codepoint": "1DAA0", "vo": "U", "description": "<reserved-1DAA0>" },
+  {
+    "codepoint": "1DAA1..1DAAF",
+    "vo": "U",
+    "description": "[15] SIGNWRITING ROTATION MODIFIER-2..SIGNWRITING ROTATION MODIFIER-16"
+  },
+  {
+    "codepoint": "1F000..1F02B",
+    "vo": "U",
+    "description": "[44] MAHJONG TILE EAST WIND..MAHJONG TILE BACK"
+  },
+  {
+    "codepoint": "1F02C..1F02F",
+    "vo": "U",
+    "description": "[4] <reserved-1F02C>..<reserved-1F02F>"
+  },
+  {
+    "codepoint": "1F030..1F093",
+    "vo": "U",
+    "description": "[100] DOMINO TILE HORIZONTAL BACK..DOMINO TILE VERTICAL-06-06"
+  },
+  {
+    "codepoint": "1F094..1F09F",
+    "vo": "U",
+    "description": "[12] <reserved-1F094>..<reserved-1F09F>"
+  },
+  {
+    "codepoint": "1F0A0..1F0AE",
+    "vo": "U",
+    "description": "[15] PLAYING CARD BACK..PLAYING CARD KING OF SPADES"
+  },
+  {
+    "codepoint": "1F0AF..1F0B0",
+    "vo": "U",
+    "description": "[2] <reserved-1F0AF>..<reserved-1F0B0>"
+  },
+  {
+    "codepoint": "1F0B1..1F0BF",
+    "vo": "U",
+    "description": "[15] PLAYING CARD ACE OF HEARTS..PLAYING CARD RED JOKER"
+  },
+  { "codepoint": "1F0C0", "vo": "U", "description": "<reserved-1F0C0>" },
+  {
+    "codepoint": "1F0C1..1F0CF",
+    "vo": "U",
+    "description": "[15] PLAYING CARD ACE OF DIAMONDS..PLAYING CARD BLACK JOKER"
+  },
+  { "codepoint": "1F0D0", "vo": "U", "description": "<reserved-1F0D0>" },
+  {
+    "codepoint": "1F0D1..1F0F5",
+    "vo": "U",
+    "description": "[37] PLAYING CARD ACE OF CLUBS..PLAYING CARD TRUMP-21"
+  },
+  {
+    "codepoint": "1F0F6..1F0FF",
+    "vo": "U",
+    "description": "[10] <reserved-1F0F6>..<reserved-1F0FF>"
+  },
+  {
+    "codepoint": "1F100..1F10C",
+    "vo": "U",
+    "description": "[13] DIGIT ZERO FULL STOP..DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ZERO"
+  },
+  {
+    "codepoint": "1F10D..1F1AD",
+    "vo": "U",
+    "description": "[161] CIRCLED ZERO WITH SLASH..MASK WORK SYMBOL"
+  },
+  {
+    "codepoint": "1F1AE..1F1E5",
+    "vo": "U",
+    "description": "[56] <reserved-1F1AE>..<reserved-1F1E5>"
+  },
+  {
+    "codepoint": "1F1E6..1F1FF",
+    "vo": "U",
+    "description": "[26] REGIONAL INDICATOR SYMBOL LETTER A..REGIONAL INDICATOR SYMBOL LETTER Z"
+  },
+  { "codepoint": "1F202", "vo": "U", "description": "SQUARED KATAKANA SA" },
+  {
+    "codepoint": "1F203..1F20F",
+    "vo": "U",
+    "description": "[13] <reserved-1F203>..<reserved-1F20F>"
+  },
+  {
+    "codepoint": "1F210..1F23B",
+    "vo": "U",
+    "description": "[44] SQUARED CJK UNIFIED IDEOGRAPH-624B..SQUARED CJK UNIFIED IDEOGRAPH-914D"
+  },
+  {
+    "codepoint": "1F23C..1F23F",
+    "vo": "U",
+    "description": "[4] <reserved-1F23C>..<reserved-1F23F>"
+  },
+  {
+    "codepoint": "1F240..1F248",
+    "vo": "U",
+    "description": "[9] TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-672C..TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-6557"
+  },
+  {
+    "codepoint": "1F249..1F24F",
+    "vo": "U",
+    "description": "[7] <reserved-1F249>..<reserved-1F24F>"
+  },
+  {
+    "codepoint": "1F250..1F251",
+    "vo": "U",
+    "description": "[2] CIRCLED IDEOGRAPH ADVANTAGE..CIRCLED IDEOGRAPH ACCEPT"
+  },
+  {
+    "codepoint": "1F252..1F25F",
+    "vo": "U",
+    "description": "[14] <reserved-1F252>..<reserved-1F25F>"
+  },
+  {
+    "codepoint": "1F260..1F265",
+    "vo": "U",
+    "description": "[6] ROUNDED SYMBOL FOR FU..ROUNDED SYMBOL FOR CAI"
+  },
+  {
+    "codepoint": "1F266..1F2FF",
+    "vo": "U",
+    "description": "[154] <reserved-1F266>..<reserved-1F2FF>"
+  },
+  {
+    "codepoint": "1F300..1F3FA",
+    "vo": "U",
+    "description": "[251] CYCLONE..AMPHORA"
+  },
+  {
+    "codepoint": "1F3FB..1F3FF",
+    "vo": "U",
+    "description": "[5] EMOJI MODIFIER FITZPATRICK TYPE-1-2..EMOJI MODIFIER FITZPATRICK TYPE-6"
+  },
+  { "codepoint": "1F400..1F5FF", "vo": "U", "description": "[512] RAT..MOYAI" },
+  {
+    "codepoint": "1F600..1F64F",
+    "vo": "U",
+    "description": "[80] GRINNING FACE..PERSON WITH FOLDED HANDS"
+  },
+  {
+    "codepoint": "1F650..1F67F",
+    "vo": "U",
+    "description": "[48] NORTH WEST POINTING LEAF..REVERSE CHECKER BOARD"
+  },
+  {
+    "codepoint": "1F680..1F6D7",
+    "vo": "U",
+    "description": "[88] ROCKET..ELEVATOR"
+  },
+  {
+    "codepoint": "1F6D8..1F6DC",
+    "vo": "U",
+    "description": "[5] <reserved-1F6D8>..<reserved-1F6DC>"
+  },
+  {
+    "codepoint": "1F6DD..1F6EC",
+    "vo": "U",
+    "description": "[16] PLAYGROUND SLIDE..AIRPLANE ARRIVING"
+  },
+  {
+    "codepoint": "1F6ED..1F6EF",
+    "vo": "U",
+    "description": "[3] <reserved-1F6ED>..<reserved-1F6EF>"
+  },
+  {
+    "codepoint": "1F6F0..1F6FC",
+    "vo": "U",
+    "description": "[13] SATELLITE..ROLLER SKATE"
+  },
+  {
+    "codepoint": "1F6FD..1F6FF",
+    "vo": "U",
+    "description": "[3] <reserved-1F6FD>..<reserved-1F6FF>"
+  },
+  {
+    "codepoint": "1F700..1F773",
+    "vo": "U",
+    "description": "[116] ALCHEMICAL SYMBOL FOR QUINTESSENCE..ALCHEMICAL SYMBOL FOR HALF OUNCE"
+  },
+  {
+    "codepoint": "1F774..1F77F",
+    "vo": "U",
+    "description": "[12] <reserved-1F774>..<reserved-1F77F>"
+  },
+  {
+    "codepoint": "1F780..1F7D8",
+    "vo": "U",
+    "description": "[89] BLACK LEFT-POINTING ISOSCELES RIGHT TRIANGLE..NEGATIVE CIRCLED SQUARE"
+  },
+  {
+    "codepoint": "1F7D9..1F7DF",
+    "vo": "U",
+    "description": "[7] <reserved-1F7D9>..<reserved-1F7DF>"
+  },
+  {
+    "codepoint": "1F7E0..1F7EB",
+    "vo": "U",
+    "description": "[12] LARGE ORANGE CIRCLE..LARGE BROWN SQUARE"
+  },
+  {
+    "codepoint": "1F7EC..1F7EF",
+    "vo": "U",
+    "description": "[4] <reserved-1F7EC>..<reserved-1F7EF>"
+  },
+  { "codepoint": "1F7F0", "vo": "U", "description": "HEAVY EQUALS SIGN" },
+  {
+    "codepoint": "1F7F1..1F7FF",
+    "vo": "U",
+    "description": "[15] <reserved-1F7F1>..<reserved-1F7FF>"
+  },
+  {
+    "codepoint": "1F900..1F9FF",
+    "vo": "U",
+    "description": "[256] CIRCLED CROSS FORMEE WITH FOUR DOTS..NAZAR AMULET"
+  },
+  {
+    "codepoint": "1FA00..1FA53",
+    "vo": "U",
+    "description": "[84] NEUTRAL CHESS KING..BLACK CHESS KNIGHT-BISHOP"
+  },
+  {
+    "codepoint": "1FA54..1FA5F",
+    "vo": "U",
+    "description": "[12] <reserved-1FA54>..<reserved-1FA5F>"
+  },
+  {
+    "codepoint": "1FA60..1FA6D",
+    "vo": "U",
+    "description": "[14] XIANGQI RED GENERAL..XIANGQI BLACK SOLDIER"
+  },
+  {
+    "codepoint": "1FA6E..1FA6F",
+    "vo": "U",
+    "description": "[2] <reserved-1FA6E>..<reserved-1FA6F>"
+  },
+  {
+    "codepoint": "1FA70..1FA74",
+    "vo": "U",
+    "description": "[5] BALLET SHOES..THONG SANDAL"
+  },
+  {
+    "codepoint": "1FA75..1FA77",
+    "vo": "U",
+    "description": "[3] <reserved-1FA75>..<reserved-1FA77>"
+  },
+  {
+    "codepoint": "1FA78..1FA7C",
+    "vo": "U",
+    "description": "[5] DROP OF BLOOD..CRUTCH"
+  },
+  {
+    "codepoint": "1FA7D..1FA7F",
+    "vo": "U",
+    "description": "[3] <reserved-1FA7D>..<reserved-1FA7F>"
+  },
+  {
+    "codepoint": "1FA80..1FA86",
+    "vo": "U",
+    "description": "[7] YO-YO..NESTING DOLLS"
+  },
+  {
+    "codepoint": "1FA87..1FA8F",
+    "vo": "U",
+    "description": "[9] <reserved-1FA87>..<reserved-1FA8F>"
+  },
+  {
+    "codepoint": "1FA90..1FAAC",
+    "vo": "U",
+    "description": "[29] RINGED PLANET..HAMSA"
+  },
+  {
+    "codepoint": "1FAAD..1FAAF",
+    "vo": "U",
+    "description": "[3] <reserved-1FAAD>..<reserved-1FAAF>"
+  },
+  {
+    "codepoint": "1FAB0..1FABA",
+    "vo": "U",
+    "description": "[11] FLY..NEST WITH EGGS"
+  },
+  {
+    "codepoint": "1FABB..1FABF",
+    "vo": "U",
+    "description": "[5] <reserved-1FABB>..<reserved-1FABF>"
+  },
+  {
+    "codepoint": "1FAC0..1FAC5",
+    "vo": "U",
+    "description": "[6] ANATOMICAL HEART..PERSON WITH CROWN"
+  },
+  {
+    "codepoint": "1FAC6..1FACF",
+    "vo": "U",
+    "description": "[10] <reserved-1FAC6>..<reserved-1FACF>"
+  },
+  {
+    "codepoint": "1FAD0..1FAD9",
+    "vo": "U",
+    "description": "[10] BLUEBERRIES..JAR"
+  },
+  {
+    "codepoint": "1FADA..1FADF",
+    "vo": "U",
+    "description": "[6] <reserved-1FADA>..<reserved-1FADF>"
+  },
+  {
+    "codepoint": "1FAE0..1FAE7",
+    "vo": "U",
+    "description": "[8] MELTING FACE..BUBBLES"
+  },
+  {
+    "codepoint": "1FAE8..1FAEF",
+    "vo": "U",
+    "description": "[8] <reserved-1FAE8>..<reserved-1FAEF>"
+  },
+  {
+    "codepoint": "1FAF0..1FAF6",
+    "vo": "U",
+    "description": "[7] HAND WITH INDEX FINGER AND THUMB CROSSED..HEART HANDS"
+  },
+  {
+    "codepoint": "1FAF7..1FAFF",
+    "vo": "U",
+    "description": "[9] <reserved-1FAF7>..<reserved-1FAFF>"
+  },
+  {
+    "codepoint": "20000..2A6DF",
+    "vo": "U",
+    "description": "[42720] CJK UNIFIED IDEOGRAPH-20000..CJK UNIFIED IDEOGRAPH-2A6DF"
+  },
+  {
+    "codepoint": "2A6E0..2A6FF",
+    "vo": "U",
+    "description": "[32] <reserved-2A6E0>..<reserved-2A6FF>"
+  },
+  {
+    "codepoint": "2A700..2B738",
+    "vo": "U",
+    "description": "[4153] CJK UNIFIED IDEOGRAPH-2A700..CJK UNIFIED IDEOGRAPH-2B738"
+  },
+  {
+    "codepoint": "2B739..2B73F",
+    "vo": "U",
+    "description": "[7] <reserved-2B739>..<reserved-2B73F>"
+  },
+  {
+    "codepoint": "2B740..2B81D",
+    "vo": "U",
+    "description": "[222] CJK UNIFIED IDEOGRAPH-2B740..CJK UNIFIED IDEOGRAPH-2B81D"
+  },
+  {
+    "codepoint": "2B81E..2B81F",
+    "vo": "U",
+    "description": "[2] <reserved-2B81E>..<reserved-2B81F>"
+  },
+  {
+    "codepoint": "2B820..2CEA1",
+    "vo": "U",
+    "description": "[5762] CJK UNIFIED IDEOGRAPH-2B820..CJK UNIFIED IDEOGRAPH-2CEA1"
+  },
+  {
+    "codepoint": "2CEA2..2CEAF",
+    "vo": "U",
+    "description": "[14] <reserved-2CEA2>..<reserved-2CEAF>"
+  },
+  {
+    "codepoint": "2CEB0..2EBE0",
+    "vo": "U",
+    "description": "[7473] CJK UNIFIED IDEOGRAPH-2CEB0..CJK UNIFIED IDEOGRAPH-2EBE0"
+  },
+  {
+    "codepoint": "2EBE1..2F7FF",
+    "vo": "U",
+    "description": "[3103] <reserved-2EBE1>..<reserved-2F7FF>"
+  },
+  {
+    "codepoint": "2F800..2FA1D",
+    "vo": "U",
+    "description": "[542] CJK COMPATIBILITY IDEOGRAPH-2F800..CJK COMPATIBILITY IDEOGRAPH-2FA1D"
+  },
+  {
+    "codepoint": "2FA1E..2FFFD",
+    "vo": "U",
+    "description": "[1504] <reserved-2FA1E>..<reserved-2FFFD>"
+  },
+  {
+    "codepoint": "30000..3134A",
+    "vo": "U",
+    "description": "[4939] CJK UNIFIED IDEOGRAPH-30000..CJK UNIFIED IDEOGRAPH-3134A"
+  },
+  {
+    "codepoint": "3134B..3134F",
+    "vo": "U",
+    "description": "[5] <reserved-3134B>..<reserved-3134F>"
+  },
+  {
+    "codepoint": "31350..3FFFD",
+    "vo": "U",
+    "description": "[60590] <reserved-31350>..<reserved-3FFFD>"
+  },
+  {
+    "codepoint": "F0000..FFFFD",
+    "vo": "U",
+    "description": "[65534] <private-use-F0000>..<private-use-FFFFD>"
+  },
+  {
+    "codepoint": "100000..10FFFD",
+    "vo": "U",
+    "description": "[65534] <private-use-100000>..<private-use-10FFFD>"
+  }
+]

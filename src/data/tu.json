@@ -1,0 +1,117 @@
+[
+  {
+    "codepoint": "3001..3002",
+    "vo": "Tu",
+    "description": "[2] IDEOGRAPHIC COMMA..IDEOGRAPHIC FULL STOP"
+  },
+  { "codepoint": "3041", "vo": "Tu", "description": "HIRAGANA LETTER SMALL A" },
+  { "codepoint": "3043", "vo": "Tu", "description": "HIRAGANA LETTER SMALL I" },
+  { "codepoint": "3045", "vo": "Tu", "description": "HIRAGANA LETTER SMALL U" },
+  { "codepoint": "3047", "vo": "Tu", "description": "HIRAGANA LETTER SMALL E" },
+  { "codepoint": "3049", "vo": "Tu", "description": "HIRAGANA LETTER SMALL O" },
+  {
+    "codepoint": "3063",
+    "vo": "Tu",
+    "description": "HIRAGANA LETTER SMALL TU"
+  },
+  {
+    "codepoint": "3083",
+    "vo": "Tu",
+    "description": "HIRAGANA LETTER SMALL YA"
+  },
+  {
+    "codepoint": "3085",
+    "vo": "Tu",
+    "description": "HIRAGANA LETTER SMALL YU"
+  },
+  {
+    "codepoint": "3087",
+    "vo": "Tu",
+    "description": "HIRAGANA LETTER SMALL YO"
+  },
+  {
+    "codepoint": "308E",
+    "vo": "Tu",
+    "description": "HIRAGANA LETTER SMALL WA"
+  },
+  {
+    "codepoint": "3095..3096",
+    "vo": "Tu",
+    "description": "[2] HIRAGANA LETTER SMALL KA..HIRAGANA LETTER SMALL KE"
+  },
+  {
+    "codepoint": "309B..309C",
+    "vo": "Tu",
+    "description": "[2] KATAKANA-HIRAGANA VOICED SOUND MARK..KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK"
+  },
+  { "codepoint": "30A1", "vo": "Tu", "description": "KATAKANA LETTER SMALL A" },
+  { "codepoint": "30A3", "vo": "Tu", "description": "KATAKANA LETTER SMALL I" },
+  { "codepoint": "30A5", "vo": "Tu", "description": "KATAKANA LETTER SMALL U" },
+  { "codepoint": "30A7", "vo": "Tu", "description": "KATAKANA LETTER SMALL E" },
+  { "codepoint": "30A9", "vo": "Tu", "description": "KATAKANA LETTER SMALL O" },
+  {
+    "codepoint": "30C3",
+    "vo": "Tu",
+    "description": "KATAKANA LETTER SMALL TU"
+  },
+  {
+    "codepoint": "30E3",
+    "vo": "Tu",
+    "description": "KATAKANA LETTER SMALL YA"
+  },
+  {
+    "codepoint": "30E5",
+    "vo": "Tu",
+    "description": "KATAKANA LETTER SMALL YU"
+  },
+  {
+    "codepoint": "30E7",
+    "vo": "Tu",
+    "description": "KATAKANA LETTER SMALL YO"
+  },
+  {
+    "codepoint": "30EE",
+    "vo": "Tu",
+    "description": "KATAKANA LETTER SMALL WA"
+  },
+  {
+    "codepoint": "30F5..30F6",
+    "vo": "Tu",
+    "description": "[2] KATAKANA LETTER SMALL KA..KATAKANA LETTER SMALL KE"
+  },
+  { "codepoint": "3127", "vo": "Tu", "description": "BOPOMOFO LETTER I" },
+  {
+    "codepoint": "31F0..31FF",
+    "vo": "Tu",
+    "description": "[16] KATAKANA LETTER SMALL KU..KATAKANA LETTER SMALL RO"
+  },
+  { "codepoint": "32FF", "vo": "Tu", "description": "SQUARE ERA NAME REIWA" },
+  {
+    "codepoint": "3300..3357",
+    "vo": "Tu",
+    "description": "[88] SQUARE APAATO..SQUARE WATTO"
+  },
+  {
+    "codepoint": "337B..337F",
+    "vo": "Tu",
+    "description": "[5] SQUARE ERA NAME HEISEI..SQUARE CORPORATION"
+  },
+  {
+    "codepoint": "FE50..FE52",
+    "vo": "Tu",
+    "description": "[3] SMALL COMMA..SMALL FULL STOP"
+  },
+  {
+    "codepoint": "FF01",
+    "vo": "Tu",
+    "description": "FULLWIDTH EXCLAMATION MARK"
+  },
+  { "codepoint": "FF0C", "vo": "Tu", "description": "FULLWIDTH COMMA" },
+  { "codepoint": "FF0E", "vo": "Tu", "description": "FULLWIDTH FULL STOP" },
+  { "codepoint": "FF1F", "vo": "Tu", "description": "FULLWIDTH QUESTION MARK" },
+  {
+    "codepoint": "1F200..1F201",
+    "vo": "Tu",
+    "description": "[2] SQUARE HIRAGANA HOKA..SQUARED KATAKANA KOKO"
+  }
+]

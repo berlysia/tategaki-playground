@@ -1,6 +1,9 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: "Yu Gothic Medium",
+    "游ゴシック Medium",
+    YuGothic,
+    "游ゴシック体", -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -10,4 +13,50 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  border: 1px solid #ccc;
+  background: #fff;
+}
+
+.fontVariationTable tr td, .fontVariationTable tr th {
+  text-align: center;
+}
+
+.fontVariationTable tr .メイリオ {
+  width: 140px;
+  font-family: 'メイリオ', 'Meiryo';
+}
+
+.fontVariationTable tr .MSゴシック {
+  width: 140px;
+  font-family: 'ＭＳ ゴシック'
+}
+
+.fontVariationTable tr .游ゴシック {
+  width: 140px;
+  font-family:
+  "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体";
+}
+
+.fontVariationTable tr .Noto_Sans_JP {
+  width: 140px;
+  font-family: 'Noto Sans JP';
+}
+
+.fontVariationTable tr .Noto_Sans {
+  width: 140px;
+  font-family: 'Noto Sans';
+}
+
+.fontVariationTable tr .ヒラギノ角ゴ {
+  width: 140px;
+  background: #666;
+  font-family: 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3';
 }
